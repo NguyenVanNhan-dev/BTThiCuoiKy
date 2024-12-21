@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "597919487584",
+    "firebase_url": "https://baocaogiuaky-default-rtdb.firebaseio.com",
+    "project_id": "baocaogiuaky",
+    "storage_bucket": "baocaogiuaky.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597919487584:android:984a49226adf7c2f021505",
+        "android_client_info": {
+          "package_name": "com.example.baocaogiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8SZ3-Te2ugGKd3j2R0mlabnhhV3CrEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597919487584:android:3c1458d9c240c7c2021505",
+        "android_client_info": {
+          "package_name": "com.thick124.lop124LTTD03.nhom11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8SZ3-Te2ugGKd3j2R0mlabnhhV3CrEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

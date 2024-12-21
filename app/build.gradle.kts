@@ -27,6 +27,9 @@ android {
             )
         }
     }
+    buildFeatures {
+        viewBinding = true
+    }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -44,5 +47,7 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation(platform("com.google.firebase:firebase-bom:33.7.0"))
     implementation("com.google.firebase:firebase-analytics")
-
+    implementation ("com.google.android.material:material:1.4.0")
+    implementation ("com.google.firebase:firebase-database:20.0.4")
+    implementation ("com.firebaseui:firebase-ui-database:7.2.0")
 }
